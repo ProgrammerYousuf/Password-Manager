@@ -1,6 +1,6 @@
 # Password_Manager
 
-This is a simple password manager built with React js and Express js.
+This is a simple password manager built with React js and Express js tailwind css.
 
 ## Features
 
