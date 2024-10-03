@@ -1,13 +1,16 @@
-# Password Manager
+# Password_Manager
 
-UI is design with tailwind css or some basic css
+This is a simple password manager built with React js and Express js.
 
-Use React js , Express Js to make this project 
+## Features
 
-Icons from LordIcons
+- Add new passwords
+- Delete passwords
+- View passwords
+- Edit passwords
 
-Save Password In Mongodb 
+## Installation
 
-
-##
-#### Design By Programmer-Yousuf
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start`

@@ -1,14 +1,11 @@
 import React from 'react'
-
+import Logo from './Logo'
 const Footer = () => {
     return (
         <div className='bg-slate-800 text-white mt-10 p-20 w-full'>
             <div className='flex md:flex-row flex-col justify-center items-center w-full'>
                 <div className='flex flex-col justify-center items-center md:w-1/2 w-full'>
-                    <div className="logo font-bold text-2xl">
-                        <span className='text-green-700'>&lt;</span>
-                        Pass<span className='text-green-700'>OP/&gt;</span>
-                    </div>
+                    <Logo />
                     <div className='flex justify-center items-center w-full text-[2.5vw] md:text-[2vw] mx-auto'>
                         Created with <img src="Icons/heart.png" alt="Heart" className='w-5 h-5 mx-2 my-5' /> by Programmer-Yousuf
                     </div>
